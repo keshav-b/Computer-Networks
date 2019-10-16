@@ -8,3 +8,4 @@
 2. Remote method Allocation
  * Greet the user and print local time
  * Arithmetic Caluclator
+3. Cyclic Redundancy Check
