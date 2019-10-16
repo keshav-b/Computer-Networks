@@ -1,2 +1,7 @@
 # Computer-Networks
-Computer Networks Programs done as part of my Undergrad Course
+
+## PROGRAMS INCLUDED
+Applications of TCP & UDP
+  * Echo 
+  * Chat 
+  * File Transfer
